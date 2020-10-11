@@ -81,11 +81,11 @@ Page({
 
 ### 合并后 - 最终的数据
 
-![](./assets/images/data.png)
+![](https://github.com/liulongbin1314/utils-miniprogram/blob/master/assets/images/data.png)
 
 ### 合并后 - 生命周期函数的执行顺序
 
-![](./assets/images/console.png)
+![](https://github.com/liulongbin1314/utils-miniprogram/blob/master/assets/images/console.png)
 
 ## 合并响应式的数据对象
 
