@@ -1,6 +1,6 @@
 {
   "name": "@escook/utils-miniprogram",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "原生小程序的工具库（为 Page 页面提供 mixins 支持；合并响应式对象的辅助方法）",
   "main": "miniprogram_dist/index.js",
   "miniprogram": "miniprogram_dist",
